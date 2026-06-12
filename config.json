@@ -12,7 +12,7 @@
   "PASSWORD": "your password",
   "OTPKEY": "",
   "BOTNAME": "MRZN chat Bot",
-  "PREFIX": "$",
+  "PREFIX": ".",
   "reactUnsend": ["😡", "🤧", "🙂", "⚠️"],
 
   "ADMINBOT": [
